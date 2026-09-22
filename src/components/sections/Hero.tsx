@@ -12,7 +12,7 @@ export default function Hero() {
               Hi, I'm <span className="text-indigo-500">Jannat</span>
             </h1>
             <p className="text-lg sm:text-xl text-zinc-400 max-w-xl">
-              Aspiring Frontend Developer & Data Analysis Enthusiast
+              Aspiring Frontend Developer & Data Analysis Enthusiast.
 Building modern, scalable web applications and extracting insights from data.
             </p>
             <div className="flex flex-wrap items-center justify-center md:justify-start gap-4">
