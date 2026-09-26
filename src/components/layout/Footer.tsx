@@ -15,14 +15,7 @@ export default function Footer() {
           >
             Email
           </a>
-          <a
-            href="https://wa.me/8801516537025"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hover:text-white transition-colors"
-          >
-            WhatsApp
-          </a>
+        
           <a
             href="https://github.com/jannat056"
             target="_blank"
